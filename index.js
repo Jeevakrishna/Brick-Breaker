@@ -7,7 +7,7 @@ let canvas = document.getElementById('game'),
     dy = -2;
 
 let paddleHeight = 12,
-    paddleWidth = 72;
+    paddleWidth = 85;
 
 // Paddle start position
 let paddleX = (canvas.width - paddleWidth) / 2;
